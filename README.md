@@ -88,21 +88,11 @@ coordinate collection activities through a centralized dashboard.
 
 ## 👥 User Roles
 
-  -----------------------------------------------------------------------
-  Role                                Responsibilities
-  ----------------------------------- -----------------------------------
-  **Resident**                        Manage account/location details,
-                                      submit waste requests, and check
-                                      request status.
-
-  **Driver**                          View assigned requests, schedules
-                                      and routes, and update collection
-                                      status.
-
-  **Administrator**                   Manage users, vehicles, requests,
-                                      schedules, collections, settings,
-                                      analytics, and reports.
-  -----------------------------------------------------------------------
+| Role | Responsibilities |
+|---|---|
+| **Resident** | Manage account and location details, submit waste requests, and check request status. |
+| **Driver** | View assigned requests, schedules, and routes, and update collection status. |
+| **Administrator** | Manage users, vehicles, requests, schedules, collections, settings, analytics, and reports. |
 
 ## 🗑️ Supported Waste Categories
 
