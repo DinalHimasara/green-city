@@ -104,33 +104,17 @@ coordinate collection activities through a centralized dashboard.
 
 ## 🛠️ Technology Stack
 
-  -----------------------------------------------------------------------
-  Component                           Technologies
-  ----------------------------------- -----------------------------------
-  **Web Frontend**                    Next.js, React, TypeScript,
-                                      Tailwind CSS
-
-  **Backend**                         Node.js, Express.js
-
-  **Main Database**                   MongoDB, Mongoose
-
-  **Mobile Services and Data**        Firebase Authentication, Cloud
-                                      Firestore
-
-  **Authentication**                  JWT, bcrypt, Firebase
-                                      Authentication
-
-  **Maps and Routing**                OpenStreetMap, Leaflet / React
-                                      Leaflet, OSRM-based routing where
-                                      configured
-
-  **Communication**                   REST APIs; Socket.IO where
-                                      configured
-
-  **Version Control**                 Git and GitHub
-
-  **Web Deployment**                  Vercel where configured
-  -----------------------------------------------------------------------
+| Component | Technologies |
+|---|---|
+| **Web Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Main Database** | MongoDB, Mongoose |
+| **Mobile Services and Data** | Firebase Authentication, Cloud Firestore |
+| **Authentication** | JWT, bcrypt, Firebase Authentication |
+| **Maps and Routing** | OpenStreetMap, Leaflet / React Leaflet, OSRM-based routing where configured |
+| **Communication** | REST APIs; Socket.IO where configured |
+| **Version Control** | Git and GitHub |
+| **Web Deployment** | Vercel where configured |
 
 ## 🏗️ System Architecture
 
