@@ -9,10 +9,13 @@ import dailyWasteCollectionRouter from "./routes/dailyWasteCollectionRouter.js"
 import scheduleRouter from "./routes/scheduleRouter.js"
 import requestRouter from "./routes/requestRouter.js"
 import settingRouter from  "./routes/settingRouter.js"
+import dotenv from "dotenv"
+
+dotenv.config()
 
 
 
-const mongoURI = "mongodb+srv://admin:1234@cluster0.az5seek.mongodb.net/?appName=Cluster0"
+const mongoURI = process.env.MONGO_URI
 const app = express()
 app.use(cors())
 app.use(compression())
