@@ -272,8 +272,7 @@ This project was developed for Independent Study Project – I (ICT 222-2) at Uv
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **🌱 Green City --- Connecting Communities for Cleaner Cities**
 
-[View the Repository](https://github.com/DinalHimasara/green-city)
-:::
+
+
