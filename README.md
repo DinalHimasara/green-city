@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🌿 GREEN CITY
 
 ### Smart Waste Collection, Tracking and Management System
@@ -244,15 +244,6 @@ Test the main workflows across the mobile app, backend, and dashboard:
 -   Map/location display and route information
 -   Firebase-to-MongoDB synchronization
 -   Collection records, analytics, and reports
-
-## 🔮 Future Enhancements
-
--   Push notifications for residents and drivers.
--   Historical-data-based waste collection demand prediction.
--   AI-assisted route optimization.
--   Expansion to additional districts.
--   Resident feedback and service ratings.
--   Further map and routing service integrations.
 
 ## 👨‍💻 Project Team --- Group 16
 
