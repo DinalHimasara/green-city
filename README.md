@@ -256,43 +256,19 @@ Test the main workflows across the mobile app, backend, and dashboard:
 
 ## 👨‍💻 Project Team --- Group 16
 
-  -----------------------------------------------------------------------
-  Registration Number     Team Member             Main Contribution
-  ----------------------- ----------------------- -----------------------
-  UWU/ICT/23/014          A.K.R.P.K. Perera       Frontend lead,
-                                                  dashboard UI,
-                                                  responsive design, API
-                                                  integration
+| Team Member | Main Contribution |
+|---|---|
+| **A.K.R.P.K. Perera** | Frontend lead, dashboard UI, responsive design, and API integration |
+| **M.H.D. Himasara** | Backend lead, database models, REST APIs, authentication, and authorization |
+| **M.G.N.N. Bandara** | Mobile/web integration and API integration |
+| **N.H.S. Kanchana** | Mobile application development, UI, API consumption, and testing |
+| **E.M.L.C. Ekanayake** | Documentation, mobile UI, and development support |
 
-  UWU/ICT/23/046          M.H.D. Himasara         Backend lead, database
-                                                  models, REST APIs,
-                                                  authentication and
-                                                  authorization
 
-  UWU/ICT/23/047          M.G.N.N. Bandara        Mobile/web integration
-                                                  and API integration
-
-  UWU/ICT/23/049          N.H.S. Kanchana         Mobile application
-                                                  development, UI, API
-                                                  consumption and testing
-
-  UWU/ICT/23/084          E.M.L.C. Ekanayake      Documentation, mobile
-                                                  UI and development
-                                                  support
-  -----------------------------------------------------------------------
-
-## 🎓 Academic Context
-
-Green City is a university group project developed at **Uva Wellassa
-University (UWU)**. It focuses on improving the coordination,
-visibility, and efficiency of municipal waste collection through
-connected mobile and web applications.
 
 ## 📄 License
 
-This project was developed for academic purposes. No open-source license
-is specified here; contact the project team before reusing or
-redistributing the code.
+This project was developed for Independent Study Project – I (ICT 222-2) at Uva Wellassa University.
 
 ------------------------------------------------------------------------
 
